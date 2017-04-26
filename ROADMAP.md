@@ -26,7 +26,16 @@ Also, adventure mates always welcome!
 
 ## 2018 - Launch Event in Epirus
 
+The details of this event are still wide open and will be the focus of much of the consultation. Key areas of preparation are:
 
+1. FUNDING
+    We will need funcding to cover the costs of a launch event and we are open to exploring both traditional all more modern routes (eg crowdsourcing). Got expertise in this area? Please get in touch!
+    - location
+    - travel grants for attendees
+    
+
+2. LEADERS
+    - A key aspect of the initiative is leading by example and capacity building and mentorship through the network
 
 
 
