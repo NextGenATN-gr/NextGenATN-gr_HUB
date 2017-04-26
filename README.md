@@ -45,16 +45,24 @@ To fill this gap we plan to leverage the power of working open. See this short v
 <iframe width="560" height="315" src="https://www.youtube.com/embed/quKdaqlR_9w" frameborder="0" allowfullscreen></iframe>
 
 
-OBJECTIVES:
+### OBJECTIVES:
+
 OVERARCHING -> Promote sustainable adventure tourism in Greece. Fill the gaps where ATTA can’t reach.
+
 - Set up an open source community to share examples, ideas, advice and resources.
 - Reach out to experts from broad range of institutions and topics (ie for education to legal). Seek collaborations
 - Provide training on open-source, crowd funding, maker and hacker space, digital skills, start ups? Engage local communities and national communities)
 - Collaborate with the ATTA, UNWTO and other initiatives that can help with resources
 
 
-KEY PRINCIPLES
+### KEY PRINCIPLES
+### 
 - Open
 - Sensitive to local but ultimately modern and global in appeal (This indeed how the mountain villages where my dad’s family survived thrived as cultural and economic centres throughout the times of the ottoman empire! 
 - Participatory
 - Collaborative
+
+
+### TOPICS
+
+- wilderness vs scale
