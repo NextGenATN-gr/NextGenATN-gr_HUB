@@ -32,16 +32,22 @@ The ATTA and UNWTO have already made huge strides in identifying, developing and
 
 We don’t aim to compete or reinvent the great work these initiatives are doing. But we believe barriers to accessing the help exist for example the cost of membership or travel to summits. We want to reduce these costs to initial access of tools and resources by leveraging the innovation, community and capacity building power of open source and open leadership.
 
+We are also well aware of visionary projects and leaders already carving the path for this in Greece. We hope to bring them together to help push against this open door and accelarate the charge.
+
 # #DYIDevelopment - Do it ourselves - do it our way
+
+To fill this gap we plan to leverage the power of working open. See this short video by Mark Surman, CEO of Mozilla on the general principles of working open:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/quKdaqlR_9w" frameborder="0" allowfullscreen></iframe>
+
 
 OBJECTIVES:
 OVERARCHING -> Promote sustainable adventure tourism in Greece. Fill the gaps where ATTA can’t reach.
-Set up an open source community to share examples, ideas, advice and resources.
-Reach out to experts from broad range of institutions and topics (ie for education to legal). Seek collaborations
-Provide training on open-source, crowd funding, maker and hacker space, digital skills, start ups? Engage local communities and national communities)
-Collaborate with the ATTA 
-Participatory 
-Collaborative
+- Set up an open source community to share examples, ideas, advice and resources.
+- Reach out to experts from broad range of institutions and topics (ie for education to legal). Seek collaborations
+- Provide training on open-source, crowd funding, maker and hacker space, digital skills, start ups? Engage local communities and national communities)
+- Collaborate with the ATTA, UNWTO and other initiatives that can help with resources
+
 
 KEY PRINCIPLES
 - Open
