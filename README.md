@@ -1,5 +1,5 @@
 # NextGen Adventure Tourism Network
-## Welcome to the-hub :smile:
+## Welcome to the-hub 
 
 <br>
 
@@ -34,9 +34,13 @@ We don’t aim to compete or reinvent the great work these initiatives are doing
 
 We are also well aware of visionary projects and leaders already carving the path for this in Greece. We hope to bring them together to help push against this open door and accelarate the charge.
 
+<br> 
+
+***
+
 # #DYIDevelopment - Do it ourselves - do it our way
 
-To fill this gap we plan to leverage the power of working open. See this short video by Mark Surman, CEO of Mozilla on the general principles of working open:
+To fill this gap we plan to leverage the power of working open. See this short video by Mark Surman, executive director of the Mozilla Foundation on the general principles of working open:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/quKdaqlR_9w" frameborder="0" allowfullscreen></iframe>
 
